@@ -33,7 +33,6 @@ $.fn.datetimepicker.defaults = {
     minuteStepping:1,               //set the minute stepping
     minDate:`1/1/1900`,               //set a minimum date
     maxDate: ,     //set a maximum date (defaults to today +100 years)
-    showToday: true,                 //shows the today indicator
     language:'en',                  //sets language locale
     defaultDate:"",                 //sets a default date, accepts js dates, strings and moment objects
     disabledDates:[],               //an array of dates that cannot be selected
